@@ -4,4 +4,203 @@ PRODID:-//Montréal Events//Events to Check//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Events to check
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+BEGIN:STANDARD
+DTSTART:20261101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20261128-club-phoenix-game-and-gear@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261128T140000
+DTEND;TZID=America/Toronto:20261128T230000
+SUMMARY:Club Phoenix: Game and Gear
+LOCATION:L’ÉTAGE\, 1988 Rue Sainte-Catherine East Local #201\, Montréal\, QC H2K 2H7\, Canada
+URL:https://clubphoenixmtl.com/event/game-and-gear-3/
+DESCRIPTION:Fetish outfit social with games and gear. Price not listed on organizer page. Source: https://clubphoenixmtl.com/event/game-and-gear-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-opalace-taste-of-bdsm@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261128T200000
+DTEND;TZID=America/Toronto:20261129T020000
+SUMMARY:Opalace: Taste of BDSM
+LOCATION:Opalace\, Montréal\, QC\, Canada (address shared after registration)
+URL:https://18.boucle.events/en/soirees-club
+DESCRIPTION:18+ fetish club night. Address shared on registration. Price listed by Boucle: $29.46. Source: https://18.boucle.events/en/soirees-club
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-latex--latex-blasphemy-montreal@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261127T220000
+DTEND;TZID=America/Toronto:20261128T060000
+SUMMARY:LATEX.: LATEX. // BLASPHEMY // MONTREAL
+LOCATION:ESC\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/soirees-club
+DESCRIPTION:18+ fetish night. Price and dress code not listed in the accessible listing. Source: https://18.boucle.events/en/soirees-club
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-opalace-karaokink@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261204T200000
+DTEND;TZID=America/Toronto:20261205T010000
+SUMMARY:Opalace: Karaokink
+LOCATION:Opalace\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/events/montreal/karaokink-2026-12-04
+DESCRIPTION:18+ fetish night. Listed price $23.58. Ticketing via Opalace. Source: https://18.boucle.events/en/events/montreal/karaokink-2026-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-tension-trex-tension-rope-exchange@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261205T090000
+DTEND;TZID=America/Toronto:20261205T180000
+SUMMARY:Tension: TREX - Tension Rope EXchange
+LOCATION:Tension\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/play-parties
+DESCRIPTION:18+ rope exchange/play event. Listed price $120–$150. Check organizer for venue details. Source: https://18.boucle.events/en/play-parties
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-tension-frixion--casual-kink-@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261205T210000
+DTEND;TZID=America/Toronto:20261206T000000
+SUMMARY:Tension / Frixion: ~Casual Kink~
+LOCATION:Frixion\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/play-parties
+DESCRIPTION:18+ play party. Listed price $25. Source: https://18.boucle.events/en/play-parties
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-club-phoenix-soir-e-sportsgear-night@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261205T200000
+DTEND;TZID=America/Toronto:20261205T233000
+SUMMARY:Club Phoenix: Soirée Sportsgear Night
+LOCATION:Aigle Noir\, 1315 Rue Sainte-Catherine East\, Montréal\, QC H2L 2H4\, Canada
+URL:https://clubphoenixmtl.com/event/soiree-sportsgear-night-3/
+DESCRIPTION:Sportsgear social. Dress code: tracksuits\, lycra\, scally\, jocks & socks\, wrestling singlets\, sports kits\, sneakers. Price not listed. Source: https://clubphoenixmtl.com/event/soiree-sportsgear-night-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-tension-nastie-nights-creativity-unbound@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261211T200000
+DTEND;TZID=America/Toronto:20261212T010000
+SUMMARY:Tension: Nastie Nights - Creativity Unbound
+LOCATION:Tension\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/play-parties
+DESCRIPTION:18+ play party. Listed price $30. Source: https://18.boucle.events/en/play-parties
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-opalace-kinkster-land-mischief-after-dark@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261211T210000
+DTEND;TZID=America/Toronto:20261212T030000
+SUMMARY:Opalace / Kinkster Land: Mischief After Dark
+LOCATION:Venue to be confirmed\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/play-parties
+DESCRIPTION:18+ play party. Venue/address and price not listed in the accessible listing. Source: https://18.boucle.events/en/play-parties
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-organisation-anti-xmas@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Organisation: Anti-Xmas
+LOCATION:Piranha Bar\, Montréal\, QC\, Canada
+URL:https://boucle.events/fr/weekend-cuir
+DESCRIPTION:18+ fetish night. Listed price range $11.98–$22.63. Exact event hours not listed\; calendar entry is all-day pending confirmation. Source: https://boucle.events/fr/weekend-cuir
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-club-phoenix-souper-de-no-l@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261212T160000
+DTEND;TZID=America/Toronto:20261213T010000
+SUMMARY:Club Phoenix: SOUPER DE NOËL
+LOCATION:Tension (Game in Gear)\, 1410 rue Wolfe\, Montréal\, QC H2L 3J4\, Canada
+URL:https://clubphoenixmtl.com/event/souper-de-noel/
+DESCRIPTION:Club Phoenix holiday dinner/social. Members free with reservation\; non-members $40. Additional details to come. Source: https://clubphoenixmtl.com/event/souper-de-noel/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-opalace-protocol-academy-obedience-ball@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261212T210000
+DTEND;TZID=America/Toronto:20261213T030000
+SUMMARY:Opalace: Protocol Academy : Obedience Ball
+LOCATION:Opalace\, Montréal\, QC\, Canada (address shared after registration)
+URL:https://18.boucle.events/en/soirees-club
+DESCRIPTION:18+ fetish event. Listed price $29.46. Source: https://18.boucle.events/en/soirees-club
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-tension-rope-social@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261212T163000
+DTEND;TZID=America/Toronto:20261212T180000
+SUMMARY:Tension: Rope Social
+LOCATION:Tension\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/montreal/corde
+DESCRIPTION:Free rope social. Source: https://18.boucle.events/en/montreal/corde
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-opalace-taste-of-bdsm@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261219T200000
+DTEND;TZID=America/Toronto:20261220T020000
+SUMMARY:Opalace: Taste of BDSM
+LOCATION:Venue to be confirmed\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/soirees-club
+DESCRIPTION:18+ fetish club night. Listed price $29.46\; location to be confirmed. Source: https://18.boucle.events/en/soirees-club
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220-club-phoenix-soir-e-phoenix-evening@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261220T170000
+DTEND;TZID=America/Toronto:20261220T190000
+SUMMARY:Club Phoenix: Soirée Phoenix Evening
+LOCATION:Aigle Noir\, 1315 Rue Sainte-Catherine East\, Montréal\, QC H2L 2H4\, Canada
+URL:https://clubphoenixmtl.com/event/soiree-phoenix-evening-9/
+DESCRIPTION:Relaxed social evening for leather\, latex and gear enthusiasts. Price not listed. Source: https://clubphoenixmtl.com/event/soiree-phoenix-evening-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-tension-misfit-knotty-x-mas-potluck-chill-@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261225T180000
+DTEND;TZID=America/Toronto:20261226T010000
+SUMMARY:Tension: Misfit Knotty X-Mas (Potluck & Chill)
+LOCATION:Tension\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/organisations/montreal/tension
+DESCRIPTION:Free community munch/potluck and chill. Source: https://18.boucle.events/en/organisations/montreal/tension
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227-tension-fondamentaux-intro-pour-couples-francais@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261227T123000
+DTEND;TZID=America/Toronto:20261227T173000
+SUMMARY:Tension: Fondamentaux - INTRO pour couples - FRANCAIS
+LOCATION:Tension\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/montreal/corde
+DESCRIPTION:18+ French-language introductory shibari class for couples. Source: https://18.boucle.events/en/montreal/corde
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-tension-hypno-235-en-mantras@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261230T180000
+DTEND;TZID=America/Toronto:20261230T210000
+SUMMARY:Tension: Hypno - 235 - EN - Mantras
+LOCATION:The Cats Lounge\, Montréal\, QC\, Canada
+URL:https://18.boucle.events/en/events/montreal/hypno-235-en-mantras
+DESCRIPTION:18+ English-language hypnosis workshop. Listed price $40. Source: https://18.boucle.events/en/events/montreal/hypno-235-en-mantras
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-cirque-de-boudoir-carnavalesque-nye-2027@mtl-events
+DTSTAMP:20261126T210000Z
+DTSTART;TZID=America/Toronto:20261231T210000
+DTEND;TZID=America/Toronto:20270101T030000
+SUMMARY:Cirque de Boudoir: CARNAVALESQUE NYE 2027
+LOCATION:Théâtre Paradoxe\, 5959 Boulevard Monk\, Montréal\, QC H4E 3H5\, Canada
+URL:https://www.eventbrite.ca/e/cirque-de-boudoir-carnava-lesque-nye-2027-tickets-2004077506771?aff=CDB
+DESCRIPTION:18+ New Year's Eve fetish/circus party. Doors 20:45. Themed dress-up event\; theme: Strip Carnival. Price depends on ticket tier. Source: https://www.eventbrite.ca/e/cirque-de-boudoir-carnava-lesque-nye-2027-tickets-2004077506771?aff=CDB
+END:VEVENT
 END:VCALENDAR
